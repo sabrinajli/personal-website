@@ -1,0 +1,10 @@
+{
+  "name": "sabrina.li",
+  "dependencies": {
+    "angular": "^1.5.0"
+  },
+  "devDependencies": {
+    "angular-route": "^1.5.0",
+    "angular-ui-router": "^0.2.17"
+  }
+}
